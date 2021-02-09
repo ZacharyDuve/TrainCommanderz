@@ -1,0 +1,7 @@
+So super high level is that we want some software that can control turnouts (switches) on a model railroad
+
+A single turnout is a device that allows routing of different paths through it by setting points
+    - That single turnout will have 1 or more points that are controlled via one or more TURNOUT MOTORS
+    - Each TURNOUT MOTOR is connected to a HARDWARE TURNOUT MOTOR CONTROLLER whos job is to send power to the motors as needed when recieving a throw command.
+    - Each TURNOUT can contain different types of TURNOUT MOTORS
+    - 
